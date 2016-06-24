@@ -21,6 +21,12 @@
 ** Physics
 - https://archive.org/details/BukhovtsevEtAlProblemsInElementaryPhysics
 
+** Biology
+https://archive.org/details/ERIC_ED270236
+
+** Earth Sciences
+[Hydroponics](https://archive.org/details/ERIC_ED391679)
+
 ** Why?
 *** History
 - https://archive.org/details/BukhovtsevEtAlProblemsInElementaryPhysics
