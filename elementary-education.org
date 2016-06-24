@@ -18,6 +18,13 @@
 ** Music Education
 - https://archive.org/details/newmusiceducatio00dani
 
+** General Science
+- https://archive.org/details/elementaryscience63albe
+- https://archive.org/details/cgelementaryscience80albe
+
+** Geography
+- https://archive.org/details/elementarysocial00chic
+
 ** Physics
 - https://archive.org/details/BukhovtsevEtAlProblemsInElementaryPhysics
 
@@ -25,7 +32,7 @@
 https://archive.org/details/ERIC_ED270236
 
 ** Earth Sciences
-[Hydroponics](https://archive.org/details/ERIC_ED391679)
+[[Hydroponics][https://archive.org/details/ERIC_ED391679]]
 
 ** Why?
 *** History
