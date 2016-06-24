@@ -1,32 +1,32 @@
 * Elementary Education
 
 ** Structuring & Administrating Elementary Education
-https://archive.org/details/ERIC_ED270236
-https://archive.org/details/fundamentalsinel01phil
-https://archive.org/details/elementaryeducat00unit
+- https://archive.org/details/ERIC_ED270236
+- https://archive.org/details/fundamentalsinel01phil
+- https://archive.org/details/elementaryeducat00unit
 
 ** Physical Education
-https://archive.org/details/elementaryphysic00albe_0
-https://archive.org/details/ERIC_ED051151
-https://archive.org/details/elementaryphysic00albe_1
-https://archive.org/details/physicaleducatio00sarg
+- https://archive.org/details/elementaryphysic00albe_0
+- https://archive.org/details/ERIC_ED051151
+- https://archive.org/details/elementaryphysic00albe_1
+- https://archive.org/details/physicaleducatio00sarg
 
 ** Safety Education
-https://archive.org/details/ERIC_ED110192
+- https://archive.org/details/ERIC_ED110192
 
 
 ** Music Education
-https://archive.org/details/newmusiceducatio00dani
+- https://archive.org/details/newmusiceducatio00dani
 
 ** Physica
-https://archive.org/details/BukhovtsevEtAlProblemsInElementaryPhysics
+- https://archive.org/details/BukhovtsevEtAlProblemsInElementaryPhysics
 
 ** Why?
 *** History
-https://archive.org/details/BukhovtsevEtAlProblemsInElementaryPhysics
+- https://archive.org/details/BukhovtsevEtAlProblemsInElementaryPhysics
 
 *** Science
-https://archive.org/details/ERIC_ED314238
+- https://archive.org/details/ERIC_ED314238
 
 ** Postmortems: The value of education
-https://archive.org/details/scienceeducation1901huxl
+- https://archive.org/details/scienceeducation1901huxl
